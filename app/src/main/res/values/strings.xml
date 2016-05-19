@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">M13project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selector">Selector</string>
+
+    <string-array name="planets_array">
+        <item>Libros</item>
+        <item>Apuntes</item>
+        <item>Otros</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_add_libro">addLibro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nombreLibro">Nombre del Articulo:</string>
+    <string name="asignaturaView">Tipo:</string>
+    <string name="cursoView">curso</string>
+    <string name="precio">Precio:</string>
+    <string name="Tipo">Tipo:</string>
+    <string name="curso">Curso:</string>
+    <string name="Descripción">Descripción:</string>
+    <string name="Propietario">Propietario:</string>
+    <string name="fotoBttn">Hacer Foto</string>
+    <string name="menu_main">Menu</string>
+    <string name="selecc">Seleccion</string>
+    <string name="de">De:</string>
+    <string name="para">Para:</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Aceptar">Aceptar2</string>
+    <string name="Guardar">Guardar</string>
+    <string name="MkFoto">Hacer Foto</string>
+    <string name="aEnviar">Texto a enviar...</string>
+    <string name="agregar">Agregar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="contactar">Contactar con el propietario</string>
+    <string name="ajustes">ajustes</string>
+    <string name="exit">Cerrar sesion</string>
+    <string name="filtro">Filtro :</string>
+</resources>
